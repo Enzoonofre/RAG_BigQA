@@ -1,0 +1,9 @@
+streamlit==1.50.0
+datasets==4.3.0
+langchain==1.0.2
+langchain-community==0.4
+langchain-core==1.0.0
+sentence-transformers==5.1.2
+langchain_openai==1.0.1
+langchain-huggingface==1.0.0
+python-dotenv==1.0.1
