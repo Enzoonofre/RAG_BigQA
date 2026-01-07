@@ -2,6 +2,13 @@
 
 BigQA is a software architecture designed for querying large volumes of textual data. This application implements a **Retrieval-Augmented Generation (RAG)** pipeline, combining semantic document retrieval with Large Language Models (LLMs) to provide precise, context-aware answers.
 
+## 🌐 Live Demo
+
+You can try this application directly in your browser without any setup:
+**[🚀 Click here to access BigQA on Hugging Face Spaces](https://huggingface.co/spaces/Ono-Enzo/BIGqa-RAG)**
+
+---
+
 ## 📚 Scientific Foundation
 
 This implementation is based on the reference architecture proposed in the following research papers:
