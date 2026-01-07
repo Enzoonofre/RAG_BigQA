@@ -43,6 +43,12 @@ This implementation is based on the reference architecture proposed in the follo
    ```bash
    pip install streamlit python-dotenv langchain-openai datasets langchain-community langchain-huggingface
    ```
+   
+   or
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Configuration
 
